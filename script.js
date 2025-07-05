@@ -6,7 +6,7 @@ function toggleMenu() {
   hamburger.classList.toggle("active");
 }
 // Initializing-swiper
-const swiper = new Swiper(".slider-wrapper", {
+const swiper = new swiper(".slider-wrapper", {
   loop: true,
   grabCursor: true,
   spaceBetween: 25,
