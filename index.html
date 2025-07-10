@@ -81,7 +81,7 @@
             <img src="images/about-image.jpg" alt="About" class="about-image" />
           </div>
           <div class="about-details">
-            <h2 class="section-title">About Us</h2>
+            <h2 class="section-title about-title">About Us</h2>
             <p class="about-text">
               Welcome to Coffee with joy, where every sip comes with a smile!
               More than just a coffee shop, we serve a delicious variety of food
@@ -348,9 +348,9 @@
             </li>
           </ul>
           <form
-            action="https://formsubmit.co/tahacodyou@gmail.com"
+            action="https://formspree.io/f/xeokwrbo"
             class="contact-form"
-            method="post"
+            method="POST"
             target="_blank"
           >
             <input
@@ -358,16 +358,22 @@
               placeholder="Your name"
               class="form-input"
               required
+              name="Client Name"
             />
             <input
               type="email"
               placeholder="Your email"
               class="form-input"
               required
+              name="Email"
             />
-            <textarea placeholder="Your massage" class="form-input"></textarea>
+            <textarea
+              placeholder="Your massage"
+              class="form-input"
+              name="Massage/Feedback"
+            ></textarea>
             <br />
-            <button class="btn">Submit</button>
+            <button class="btn" type="submit">Submit</button>
           </form>
         </div>
       </section>
