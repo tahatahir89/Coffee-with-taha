@@ -139,7 +139,6 @@ a {
 .hero-section {
   background-color: #603f26;
   min-height: 100vh;
-  min-width: 100vh;
 }
 .section-content {
   min-height: 100%;
@@ -206,7 +205,6 @@ a {
 .about-section {
   padding: 120px 0;
   background-color: azure;
-  min-width: 100vh;
 }
 .about-section-content {
   display: flex;
@@ -214,7 +212,6 @@ a {
   justify-content: space-around;
   gap: 40px;
   min-height: 100vh;
-  min-width: 100vh;
 }
 .about-image {
   width: 300px;
@@ -276,7 +273,6 @@ a {
 .menu-section {
   color: white;
   background: #222831;
-  min-width: 100vh;
   padding-bottom: 20px;
 }
 
@@ -312,7 +308,6 @@ a {
 .testimonials-section {
   padding: 50px 0 100px;
   background-color: azure;
-  min-width: 100vh;
 }
 .testimonials-section .slider-wrapper {
   overflow: hidden;
@@ -342,7 +337,6 @@ a {
   line-height: 25px;
 }
 .slider-container {
-  min-width: 100vh;
 }
 .testimonial-content {
   min-height: 100%;
@@ -369,7 +363,6 @@ a {
 /* gellery-section-styling */
 /* gellery-section-styling */
 .gellery-section {
-  min-width: 100vh;
   padding: 50px 0 100px;
   background-color: #fff;
 }
@@ -447,7 +440,6 @@ a {
   opacity: 0;
 }
 .contact-section {
-  min-width: 100vh;
   background-color: azure;
   padding: 50px 0 100px;
 }
@@ -492,7 +484,6 @@ textarea {
   padding: 20px 0;
   background-color: #222831;
   color: #fff;
-  min-width: 100vh;
 }
 .copyright-text {
   font-size: 0.85rem;
@@ -595,7 +586,6 @@ svg {
 }
 
 .order-now {
-  min-width: 100vh;
   padding: 100px 0 100px;
 }
 .upper-order {
