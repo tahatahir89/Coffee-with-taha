@@ -146,10 +146,7 @@ a {
 .hero-section {
   background-color: #603f26;
   min-height: 100vh;
-<<<<<<< HEAD
   width: 100%;
-=======
->>>>>>> 772d096f6c1a4078217c7f967dcc9fe4d4646bf7
 }
 .section-content {
   min-height: 100%;
@@ -216,10 +213,7 @@ a {
 .about-section {
   padding: 120px 0;
   background-color: azure;
-<<<<<<< HEAD
   width: 100%;
-=======
->>>>>>> 772d096f6c1a4078217c7f967dcc9fe4d4646bf7
 }
 .about-section-content {
   display: flex;
@@ -227,10 +221,7 @@ a {
   justify-content: space-around;
   gap: 40px;
   min-height: 100vh;
-<<<<<<< HEAD
   width: 100%;
-=======
->>>>>>> 772d096f6c1a4078217c7f967dcc9fe4d4646bf7
 }
 .about-image {
   width: 300px;
@@ -292,10 +283,7 @@ a {
 .menu-section {
   color: white;
   background: #222831;
-<<<<<<< HEAD
   width: 100%;
-=======
->>>>>>> 772d096f6c1a4078217c7f967dcc9fe4d4646bf7
   padding-bottom: 20px;
 }
 
@@ -331,10 +319,7 @@ a {
 .testimonials-section {
   padding: 50px 0 100px;
   background-color: azure;
-<<<<<<< HEAD
   width: 100%;
-=======
->>>>>>> 772d096f6c1a4078217c7f967dcc9fe4d4646bf7
 }
 .testimonials-section .slider-wrapper {
   overflow: hidden;
@@ -364,10 +349,7 @@ a {
   line-height: 25px;
 }
 .slider-container {
-<<<<<<< HEAD
   width: 100%;
-=======
->>>>>>> 772d096f6c1a4078217c7f967dcc9fe4d4646bf7
 }
 .testimonial-content {
   min-height: 100%;
@@ -394,10 +376,7 @@ a {
 /* gellery-section-styling */
 /* gellery-section-styling */
 .gellery-section {
-<<<<<<< HEAD
   width: 100%;
-=======
->>>>>>> 772d096f6c1a4078217c7f967dcc9fe4d4646bf7
   padding: 50px 0 100px;
   background-color: #fff;
 }
@@ -475,10 +454,7 @@ a {
   opacity: 0;
 }
 .contact-section {
-<<<<<<< HEAD
   width: 100%;
-=======
->>>>>>> 772d096f6c1a4078217c7f967dcc9fe4d4646bf7
   background-color: azure;
   padding: 50px 0 100px;
 }
@@ -523,10 +499,7 @@ textarea {
   padding: 20px 0;
   background-color: #222831;
   color: #fff;
-<<<<<<< HEAD
   width: 100%;
-=======
->>>>>>> 772d096f6c1a4078217c7f967dcc9fe4d4646bf7
 }
 .copyright-text {
   font-size: 0.85rem;
@@ -629,10 +602,7 @@ svg {
 }
 
 .order-now {
-<<<<<<< HEAD
   width: 100%;
-=======
->>>>>>> 772d096f6c1a4078217c7f967dcc9fe4d4646bf7
   padding: 100px 0 100px;
 }
 .upper-order {
@@ -1024,7 +994,6 @@ svg {
     max-width: 320px;
     height: auto;
   }
-<<<<<<< HEAD
   .hero-details {
     padding: 0 10px;
   }
@@ -1075,6 +1044,4 @@ svg {
   .order-title {
     font-size: 1.6rem;
   }
-=======
->>>>>>> 772d096f6c1a4078217c7f967dcc9fe4d4646bf7
 }
